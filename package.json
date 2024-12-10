@@ -1,0 +1,24 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apriori": "^1.0.7",
+    "cors": "^2.8.5",
+    "decision-tree": "^0.3.7",
+    "express": "^4.21.2",
+    "id3": "^0.0.3",
+    "kmeans": "^0.0.1",
+    "ml-kmeans": "^6.0.0",
+    "mssql": "^11.0.1",
+    "natural": "^8.0.1",
+    "tf-idf": "^1.0.0"
+  },
+  "description": ""
+}
